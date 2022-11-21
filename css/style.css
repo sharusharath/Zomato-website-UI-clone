@@ -10,6 +10,7 @@ html, body{
 header{
     background: url(../images/home-bg.avif);
     padding: 2%;
+background-size: cover;	
 }
 .right-menu{
     float: right;
